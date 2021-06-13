@@ -1,0 +1,39 @@
+.appBar {
+  display: flex;
+}
+
+.headWrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftBlock {
+  display: flex;
+  align-items: center
+}
+
+.headLink {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  text-decoration: none !important;
+  margin-right: 16px;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.6
+}
+
+.headLinkActive {
+  opacity: 0.5
+}
+
+.rightBlock {
+  display: flex;
+  align-items: center;
+  justify-content: space-between
+}
+
+.profileBlockWrap {
+  display: flex;
+  align-items: center;
+  color: #fff
+}

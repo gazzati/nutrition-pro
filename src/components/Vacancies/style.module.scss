@@ -1,0 +1,21 @@
+.content {
+  flex-grow: 1;
+  margin-top: 80px;
+  padding: 16px
+}
+
+.paper {
+  margin-bottom: 32px;
+  padding: 16px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.table {
+  min-width: 650px
+}
+
+.title {
+  text-decoration: underline;
+  cursor: pointer;
+}
